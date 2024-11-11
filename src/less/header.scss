@@ -1,0 +1,98 @@
+header {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+    left: 0;
+    @media(max-width: 575px){
+        position: relative;
+        background-color: black;
+    }
+    .top-bar{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        z-index: 9;
+        @media(min-width: 992px){
+            padding-left: 40px;
+            padding-right: 40px;
+        }
+        .row{
+            margin: 0;
+            padding: 20px;
+            @media(max-width: 575px){
+                padding: 10px;
+            }
+            .col-sm-6{
+                @media(max-width: 575px){
+                    padding: 0px;
+                }
+                a{
+                    text-decoration: none;
+                    color: #ed7517;
+                    font-family: "Salsa", cursive;
+                    font-weight: 400;
+                    font-size: 18px;
+                }
+            }
+            .col-sm-6:nth-child(1){
+                @media(max-width: 575px){
+                    display: none;
+                }
+            }
+            .col-sm-6:nth-child(2){
+                text-align: right;
+                
+                a{
+                    color: #fff;
+                    background-color: #ed7517;
+                    padding: 10px 15px 10px 15px;
+                    display: block;
+                    width: fit-content;
+                    float: right;
+                    border-radius: 25px;
+                    @media(max-width: 575px){
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+    }
+    .navbar-dark .navbar-toggler {
+        color: #ed7517;
+        border-color: #ed7517;
+    }
+    .navbar-dark .navbar-toggler-icon {
+        background-image: url("../images/new-nav.png");
+    }
+    .bg-secondary {
+        background-color: unset !important;
+        background-image: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0)) !important;
+    }
+    .navbar-brand{
+        margin-right: 40px;
+        margin-left: 40px;
+        .gatsby-image-wrapper.gatsby-image-wrapper-constrained {
+            width: 300px;
+        }
+        @media(max-width: 575px){
+            .gatsby-image-wrapper.gatsby-image-wrapper-constrained {
+                width: 200px;
+            }
+            margin-left: 0px;
+        }
+    }
+    .navbar-expand-md .navbar-nav .nav-link{
+        margin-top: 60px;
+        font-family: "Salsa", cursive;
+        font-weight: 400;
+        font-style: normal;
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 18px;
+        letter-spacing: 1px;
+        @media(max-width: 767px){
+            margin-top: 0px;
+        }
+    }
+}

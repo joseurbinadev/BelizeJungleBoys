@@ -1,0 +1,91 @@
+.cruise{
+    .cruise-main{
+        padding-top: 80px;
+        max-width: 1500px;
+        margin: 0 auto;
+        text-align: center;
+        padding-bottom: 80px;
+        .cruise-cont{
+                h1{
+                    position: relative;
+                    z-index: 99;
+                    color: rgb(99, 171, 69);
+                    font-size: 50px;
+                    font-family: Salsa, cursive;
+                    font-weight: bold;
+                    letter-spacing: 2px;
+                    text-transform: uppercase;
+                    text-decoration: none;
+                }
+                p{
+                    margin-bottom: 0;
+                    font-family: Play, sans-serif;
+                    font-size: 18px;
+                    color: #000;
+                    padding-bottom: 20px;
+                    max-width: 80%;
+                    margin: 0 auto;
+                }
+                a{
+                    color: rgb(255, 255, 255);
+                    background-color: rgb(237, 117, 23);
+                    padding: 10px 15px;
+                    display: block;
+                    width: fit-content;
+                    text-align: center;
+                    border-radius: 25px;
+                    margin: 0 auto;
+                    text-decoration: none;
+                    font-family: "Salsa", cursive;
+                    font-weight: 400;
+                    font-size: 18px;
+                }
+        }
+        h3{
+            font-family: Play, sans-serif;
+            font-weight: bold;
+            
+        }
+        table#customers{
+            margin: 0 auto;
+            border: 1px solid #fff;
+            background-color: #63ab45;
+
+            tbody{
+                tr{
+                    th{
+                        color: #fff;
+                        text-align: left;
+                        padding: 10px;
+                        border: 1px solid #fff;
+                        font-family: Play, sans-serif;
+                    }
+                }
+            }
+        }
+        .staff{
+            margin: 0 auto;
+            .eapp-team-showcase-grid-component {
+                display: flex;
+                flex-wrap: wrap;
+                overflow: hidden;
+                justify-content: center;
+            }
+        }
+        a{
+            color: rgb(255, 255, 255);
+            background-color: rgb(237, 117, 23);
+            padding: 10px 15px;
+            display: block;
+            width: fit-content;
+            text-align: center;
+            border-radius: 25px;
+            margin: 0 auto;
+            text-decoration: none;
+            font-family: "Salsa", cursive;
+            font-weight: 400;
+            font-size: 18px;
+            margin-top: 40px;
+        }
+    }
+}                                             
