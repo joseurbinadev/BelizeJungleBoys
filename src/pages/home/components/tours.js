@@ -12,6 +12,8 @@ const slide5 = "../../../images/bjb-crystal.png"
 const slide6 = "../../../images/bjb-atm.png"
 const slide7 = "../../../images/bjb-ruins.png"
 const slide8 = "../../../images/bjb-zoo.png"
+const slide9 = "../../../images/kayaking-tour-slide.png"
+const slide10 = "../../../images/caracol-tour-slide.png"
 
 const cruise1 = "../../../images/cruise1.png"
 const cruise2 = "../../../images/cruise2.png"
@@ -84,6 +86,18 @@ function Tours() {
                        </a>
                     </div>
                     <div className='tour-slide'>
+                       <a href="/xunantunich-river-kayaking-san-ignacio/">
+                       <div className='absolute-overlay'></div>
+                         <StaticImage src={slide9} />
+                            <div className='absolute-price'>
+                                <span>$200 USD</span>
+                            </div>
+                            <div className='absolute-desc'>
+                                <h1>Xunantunich Kayaking</h1>
+                            </div>
+                       </a>
+                    </div>
+                    <div className='tour-slide'>
                         <a href="/jungle-zipline-in-jaguar-paw/">
                         <div className='absolute-overlay'></div>
                           <StaticImage src={slide3} />
@@ -104,6 +118,18 @@ function Tours() {
                             </div>
                             <div className='absolute-desc'>
                                 <h1>Jungle ATV</h1>
+                            </div>
+                        </a>
+                    </div>
+                    <div className='tour-slide'>
+                        <a href="/caracol-and-rio-on-pools-chiquibil-forest-reserve-western-belize/">
+                        <div className='absolute-overlay'></div>
+                          <StaticImage src={slide10} />
+                          <div className='absolute-price'>
+                                <span>$200 USD</span>
+                            </div>
+                            <div className='absolute-desc'>
+                                <h1>Rio on Pools</h1>
                             </div>
                         </a>
                     </div>
@@ -158,6 +184,82 @@ function Tours() {
                   
                 </Slider>
             </div>
+       </div>
+       <div className='mobile-tours'>
+       <div className='tours-slider'>
+                    <div className='tour-slide'>
+                        <a href="/cave-tubing-in-belize/">
+                            <div className='absolute-overlay'></div>
+                            <StaticImage src={slide1} />
+                            <div className='absolute-price'>
+                                <span>$65 USD</span>
+                            </div>
+                            <div className='absolute-desc'>
+                                <h1>Cave Tubing</h1>
+                            </div>
+                        </a>
+                    </div>
+                    <div className='tour-slide'>
+                       <a href="/cave-kayaking-in-jaguar-paw/">
+                       <div className='absolute-overlay'></div>
+                         <StaticImage src={slide2} />
+                            <div className='absolute-price'>
+                                <span>$100 USD</span>
+                            </div>
+                            <div className='absolute-desc'>
+                                <h1>Cave Kayaking</h1>
+                            </div>
+                       </a>
+                    </div>
+                    <div className='tour-slide'>
+                       <a href="/xunantunich-river-kayaking-san-ignacio/">
+                       <div className='absolute-overlay'></div>
+                         <StaticImage src={slide9} />
+                            <div className='absolute-price'>
+                                <span>$200 USD</span>
+                            </div>
+                            <div className='absolute-desc'>
+                                <h1>Xunantunich Kayaking</h1>
+                            </div>
+                       </a>
+                    </div>
+                    <div className='tour-slide'>
+                        <a href="/jungle-zipline-in-jaguar-paw/">
+                        <div className='absolute-overlay'></div>
+                          <StaticImage src={slide3} />
+                          <div className='absolute-price'>
+                                <span>$55 USD</span>
+                            </div>
+                            <div className='absolute-desc'>
+                                <h1>Jungle Zip Line</h1>
+                            </div>
+                         </a>
+                    </div>
+                    <div className='tour-slide'>
+                        <a href="/jungle-zipline-in-jaguar-paw/">
+                        <div className='absolute-overlay'></div>
+                        <StaticImage src={slide4} />
+                        <div className='absolute-price'>
+                                <span>$95 USD</span>
+                            </div>
+                            <div className='absolute-desc'>
+                                <h1>Jungle ATV</h1>
+                            </div>
+                        </a>
+                    </div>
+                    <div className='tour-slide'>
+                        <a href="/caracol-and-rio-on-pools-chiquibil-forest-reserve-western-belize/">
+                        <div className='absolute-overlay'></div>
+                          <StaticImage src={slide10} />
+                          <div className='absolute-price'>
+                                <span>$200 USD</span>
+                            </div>
+                            <div className='absolute-desc'>
+                                <h1>Rio on Pools</h1>
+                            </div>
+                        </a>
+                    </div>
+       </div>
        </div>
        <div className='button-tours'>
          <a href="/all-tours/">View all Tours</a>

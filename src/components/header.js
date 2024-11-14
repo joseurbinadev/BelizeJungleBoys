@@ -45,7 +45,7 @@ const Header = ({ siteTitle }) => (
          <StaticImage src="../images/belize-jungle-boys-logo.avif" quality={60} formats={["auto", "webp", "avif"]} />
         </a>
         <li class="nav-item">
-          <a class="nav-link" href="">Pricing</a>
+          <a class="nav-link" href="">Shuttle</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/cruise-ship-deals">Cruise Ship</a>

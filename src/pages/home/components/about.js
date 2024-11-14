@@ -14,7 +14,7 @@ function About() {
              <div className='cruise-book'>
                <div className='row'>
                  <div className='col-sm-8'>
-                      <h1>Check out or Cruise Ship Deals Today!</h1>
+                      <h1>Check out our Cruise Ship Deals Today!</h1>
                       <p>From comfortable transportation and delicious lunch to a private, expertly guided tour, we handle every detail. Simply share your arrival and departure times, and we’ll create an unforgettable adventure just for you!</p>
                  </div>
                  <div className='col-sm-4'>

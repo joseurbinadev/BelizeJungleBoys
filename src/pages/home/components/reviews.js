@@ -9,7 +9,7 @@ function Reviews() {
        
        <div className='row'>
          <div className='col-sm-8'>
-            <h1>See What our pasts quests had to say about us!</h1>
+            <h1>See What our pasts guests had to say about us!</h1>
             <p>At Belize Jungle Boys, customer satisfaction is at the heart of everything we do. With a deep commitment to delivering unforgettable experiences, we ensure every adventure is tailored, safe, and memorable. Your joy and comfort are our top priorities as we guide you through the natural wonders of Belize!</p>
          </div>
          <div className='col-sm-4'>
