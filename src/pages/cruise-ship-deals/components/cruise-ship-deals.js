@@ -22,179 +22,54 @@ function Cruise() {
   <tbody>
     <tr>
       <th>Tour</th>
-      <th>Min 2pax</th>
-      <th>4 + </th>
-      <th>6 + </th>
+      <th>Min 5pax</th>
+      <th>Duration</th>
+     
     
     </tr>
     <tr>
       <th>Cave Kayaking</th>
-      <th>180.00</th>
-      <th>170.00</th>
-      <th>160.00</th>
+      <th>$110.00USD</th>
+      <th>5 Hours</th>
+      
      
     </tr>
     <tr>
       <th>Cave Tubing</th>
-      <th>150.00</th>
-      <th>135.00</th>
-      <th>125.00</th>
+      <th>$85.00USD</th>
+      <th>5 Hours</th>
+     
     
     </tr>
     <tr>
-      <th>Zipline</th>
-      <th>150.00</th>
-      <th>135.00</th>
-      <th>125.00</th>
+      <th>Cave Tubing & Zipline</th>
+      <th>$135.00USD</th>
+      <th>6 Hours</th>
+     
      
     </tr>
     <tr>
-      <th>Lamanai Mayan Ruin</th>
-      <th>170.00</th>
-      <th>160.00</th>
-      <th>150.00</th>
-     
-    </tr>
-    <tr>
-      <th>Mayan Temples</th>
-      <th>150.00</th>
-      <th>135.00</th>
-      <th>125.00</th>
-     
-    </tr>
-    <tr>
-      <th>Cave Tubing and Zipline</th>
-      <th>180.00</th>
-      <th>170.00</th>
-      <th>160.00</th>
-     
-    </tr>
-    <tr>
-      <th>Cave Tubing and Mayan Temple</th>
-      <th>190.00</th>
-      <th>180.00</th>
-      <th>160.00</th>
-     
-    </tr>
-    <tr>
-      <th>Cave Tubing and Belize Zoo</th>
-      <th>190.00</th>
-      <th>180.00</th>
-      <th>170.00</th>
+      <th>Altun Ha & Jungle ATV</th>
+      <th>$150.00USD</th>
+      <th>5 Hours</th>
     
-    </tr>
-    <tr>
-      <th>Cave Tubing and ATV</th>
-      <th>200.00</th>
-      <th>190.00</th>
-      <th>180.00</th>
-    
-    </tr>
-    <tr>
-      <th>Cave Tubing and Horseback Ride</th>
-      <th>200.00</th>
-      <th>190.00</th>
-      <th>180.00</th>
      
     </tr>
     <tr>
-      <th>Zipline and Xunantunich</th>
-      <th>180.00</th>
-      <th>170.00</th>
-      <th>160.00</th>
+      <th>Altun Ha & Cave Tubing</th>
+      <th>$130.00USD</th>
+      <th>6 Hours</th>
+     
      
     </tr>
     <tr>
-      <th>Zipline and Belize Zoo </th>
-      <th>180.00</th>
-      <th>170.00</th>
-      <th>160.00</th>
+      <th>Cave Kayaking & Altun Ha</th>
+      <th>$150.00USD</th>
+      <th>6 Hours</th>
+     
      
     </tr>
-    <tr>
-      <th>Zipline and ATV </th>
-      <th>200.00</th>
-      <th>190.00</th>
-      <th>180.00</th>
-     
-    </tr>
-    <tr>
-      <th>Zipline and Horse Back Ride</th>
-      <th>200.00</th>
-      <th>190.00</th>
-      <th>180.00</th>
-    
-    </tr>
-    <tr>
-      <th>Zipline and Cave Kayaking</th>
-      <th>230.00</th>
-      <th>220.00</th>
-      <th>210.00</th>
-    
-    </tr>
-    <tr>
-      <th>Xunantunich and Belize Zoo</th>
-      <th>180.00</th>
-      <th>170.00</th>
-      <th>160.00</th>
-  
-    </tr>
-    <tr>
-      <th>Xunantunich and ATV</th>
-      <th>200.00</th>
-      <th>190.00</th>
-      <th>180.00</th>
    
-    </tr>
-    <tr>
-      <th>Xunantunich and Horse Back Ride</th>
-      <th>200.00</th>
-      <th>190.00</th>
-      <th>180.00</th>
-   
-    </tr>
-    <tr>
-      <th>Xunantunich and Cave Kayaking</th>
-      <th>230.00</th>
-      <th>220.00</th>
-      <th>210.00</th>
-    
-    </tr>
-    <tr>
-      <th>Cave Tubing /Zipline / Xunantunich </th>
-      <th>250.00</th>
-      <th>240.00</th>
-      <th>230.00</th>
-   
-    </tr>
-    <tr>
-      <th>Cave Tubing /Zipline / Belize Zoo </th>
-      <th>220.00</th>
-      <th>210.00</th>
-      <th>230.00</th>
-    
-    </tr>
-    <tr>
-      <th>Cave Tubing /Zipline / Horse Back Riding </th>
-      <th>270.00</th>
-      <th>260.00</th>
-      <th>250.00</th>
-    
-    </tr>
-    <tr>
-      <th>Cave Tubing /Zipline / ATV</th>
-      <th>270.00</th>
-      <th>260.00</th>
-      <th>250.00</th>
-     
-    </tr>
-    <tr>
-      <th>Lost World Crsytal Cave </th>
-      <th>250.00</th>
-      <th>240.00</th>
-      <th>230.00</th>
-    
-    </tr>
   </tbody>
 </table>
       <a href="/contact-us">

@@ -1,7 +1,12 @@
 .content-header{
-    margin-top: -37px;
+   // margin-top: -37px;
     position: relative;
     z-index: -1;
+    @media(min-width: 576px){
+        .gatsby-image-wrapper.gatsby-image-wrapper-constrained {
+            height: 520px;
+        }
+    }
     .header-overlay{
         position: absolute;
         width: 100%;
@@ -19,6 +24,9 @@
         left: 0;
         z-index: 1;
         text-align: center;
+        @media(max-width: 575px){
+            bottom: -13px;
+        }
         h1{
             position: relative;
             z-index: 99;
@@ -29,6 +37,9 @@
                 letter-spacing: 2px;
                 text-transform: uppercase;
                 text-decoration: none;
+                @media(max-width: 575px){
+                    font-size: 30px;
+                }
         }
     }
 }

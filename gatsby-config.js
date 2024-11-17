@@ -12,7 +12,7 @@ module.exports = {
     title: `Belize Jungle Boys`,
     description: `We offer a wide range of adventures that cater to nature enthusiasts and adrenaline junkies alike. Explore Belize's stunning excursions: Cave Tubing, Zipline, Mayan Temples, ATV Jungle Rides and more!`,
     author: `Jose Urbina`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://jaguarpaw.bz/`,
   },
   plugins: [
     `gatsby-plugin-image`,

@@ -10,12 +10,12 @@ const Header = ({ siteTitle }) => (
     <div className="top-bar">
        <div className="row">
           <div className="col-sm-6">
-              <a href="">
-                Franks Eddy Village, Jaguar Paw Belize
+              <a href="/about-us/">
+                Franks Eddy Village, Jaguar Paw Outpost
               </a>
           </div>
           <div className="col-sm-6">
-              <a href="" className="lead-button">
+              <a href="tel:5016758300" className="lead-button">
                 Call: +501 675-8300
               </a>
           </div>
@@ -45,7 +45,7 @@ const Header = ({ siteTitle }) => (
          <StaticImage src="../images/belize-jungle-boys-logo.avif" quality={60} formats={["auto", "webp", "avif"]} />
         </a>
         <li class="nav-item">
-          <a class="nav-link" href="">Shuttle</a>
+          <a class="nav-link" href="/tours-with-transportation-included/">Shuttle</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/cruise-ship-deals">Cruise Ship</a>

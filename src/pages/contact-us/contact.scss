@@ -31,7 +31,14 @@
                     font-family: Play, sans-serif;
                     font-size: 18px;
                     color: #000;
-                    padding-bottom: 20px;
+                    padding-bottom: 10px;
+                    a{
+                        text-decoration: none;
+                        color: #ed7517;
+                        &:hover{
+                            font-weight: bold;
+                        }
+                    }
                 }
                 .row{
                     margin: 0;
