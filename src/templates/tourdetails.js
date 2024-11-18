@@ -111,10 +111,10 @@ const ToursDeferred = ({data, index}) => {
                         <div className="contact-cta tours">
                          <h3>Book Tour</h3>
                          <div class="elfsight-app-082652c6-52a3-45c6-a52f-27e6d8570fc1" data-elfsight-app-lazy></div>  </div>
-                          <div className="contact-cta tours">
-                         <h3>Cancellation Policy</h3>
-                         <div><p>Bla Bla Bla</p></div>
-                    </div>
+                         {/* <div className="contact-cta tours">
+                           <h3>Cancellation Policy</h3>
+                           <div><p>Bla Bla Bla</p></div>
+                          </div>*/}
                     </Col>
                     
                 </Row>
