@@ -16,7 +16,7 @@ import Reviews from "./home/components/reviews"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Masters of The Jungle" />
+    <Seo title="Jaguar Paw Belize" />
     <Hero />
     <Tours />
     <About />
