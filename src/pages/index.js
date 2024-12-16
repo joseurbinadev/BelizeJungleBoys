@@ -16,7 +16,8 @@ import Reviews from "./home/components/reviews"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Jaguar Paw Belize" />
+    <Seo title="Caev Tubing in Belize" />
+    <div class="elfsight-app-6db6c96f-f90e-49ff-8588-2a696d5b203e" data-elfsight-app-lazy></div>
     <Hero />
     <Tours />
     <About />

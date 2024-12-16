@@ -19,7 +19,7 @@ function TopPicks() {
                       
                        <div className='cont-hero'>
                           <h2>Cave Tubing</h2>
-                          <p>$65USD Per Person</p>
+                          <p>$50USD Per Person</p>
                           <span>Book Now</span>
                         </div>
                      </a>
@@ -30,7 +30,7 @@ function TopPicks() {
                     
                       <div className='cont-hero'>
                          <h2>Jungle Zipline</h2>
-                          <p>$55USD Per Person</p>
+                          <p>$45USD Per Person</p>
                           <span>Book Now</span>
                         </div>
                      </a>
@@ -41,7 +41,7 @@ function TopPicks() {
                      <StaticImage src={pick} quality={60} formats={["auto", "webp", "avif"]} />
                      <div className='cont-hero'>
                          <h2>Cave Kayaking</h2>
-                          <p>$100USD Per Person</p>
+                          <p>$90USD Per Person</p>
                           <span>Book Now</span>
                           </div>
                      </a>

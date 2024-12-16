@@ -66,7 +66,7 @@ function Tours() {
                             <div className='absolute-overlay'></div>
                             <StaticImage src={slide1} />
                             <div className='absolute-price'>
-                                <span>$65 USD</span>
+                                <span>$50 USD</span>
                             </div>
                             <div className='absolute-desc'>
                                 <h1>Cave Tubing</h1>
@@ -102,7 +102,7 @@ function Tours() {
                         <div className='absolute-overlay'></div>
                           <StaticImage src={slide3} />
                           <div className='absolute-price'>
-                                <span>$55 USD</span>
+                                <span>$45 USD</span>
                             </div>
                             <div className='absolute-desc'>
                                 <h1>Jungle Zip Line</h1>
@@ -192,7 +192,7 @@ function Tours() {
                             <div className='absolute-overlay'></div>
                             <StaticImage src={slide1} />
                             <div className='absolute-price'>
-                                <span>$65 USD</span>
+                                <span>$50 USD</span>
                             </div>
                             <div className='absolute-desc'>
                                 <h1>Cave Tubing</h1>
@@ -204,7 +204,7 @@ function Tours() {
                        <div className='absolute-overlay'></div>
                          <StaticImage src={slide2} />
                             <div className='absolute-price'>
-                                <span>$100 USD</span>
+                                <span>$90 USD</span>
                             </div>
                             <div className='absolute-desc'>
                                 <h1>Cave Kayaking</h1>
@@ -228,7 +228,7 @@ function Tours() {
                         <div className='absolute-overlay'></div>
                           <StaticImage src={slide3} />
                           <div className='absolute-price'>
-                                <span>$55 USD</span>
+                                <span>$45 USD</span>
                             </div>
                             <div className='absolute-desc'>
                                 <h1>Jungle Zip Line</h1>
