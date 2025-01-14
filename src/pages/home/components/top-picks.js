@@ -19,7 +19,7 @@ function TopPicks() {
                       
                        <div className='cont-hero'>
                           <h2>Cave Tubing</h2>
-                          <p>$50USD Per Person</p>
+                          <p>$60USD Per Person</p>
                           <span>Book Now</span>
                         </div>
                      </a>

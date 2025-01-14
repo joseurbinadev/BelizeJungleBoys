@@ -66,7 +66,7 @@ function Tours() {
                             <div className='absolute-overlay'></div>
                             <StaticImage src={slide1} />
                             <div className='absolute-price'>
-                                <span>$50 USD</span>
+                                <span>$60 USD</span>
                             </div>
                             <div className='absolute-desc'>
                                 <h1>Cave Tubing</h1>
@@ -192,7 +192,7 @@ function Tours() {
                             <div className='absolute-overlay'></div>
                             <StaticImage src={slide1} />
                             <div className='absolute-price'>
-                                <span>$50 USD</span>
+                                <span>$60 USD</span>
                             </div>
                             <div className='absolute-desc'>
                                 <h1>Cave Tubing</h1>
