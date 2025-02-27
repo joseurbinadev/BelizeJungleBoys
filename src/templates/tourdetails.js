@@ -91,6 +91,11 @@ const ToursDeferred = ({data, index}) => {
        
                             <h4>{data.graphCmsItemTours.tourLocation}</h4>
                             <div dangerouslySetInnerHTML={{ __html: data.graphCmsItemTours.tourDescription.html }} />
+                           <div id="disclaimer">
+                            <p><strong>Please Note: All Prices listed on website are Drive In rates, if you request trasportation, an extra fee will be charged per Person
+                               which will be provided upon tour confirmation.</strong>
+                            </p>
+                           </div>
                         </div>
                         <div className="contact-cta tours">
                          <h3>Tour Prices</h3>
