@@ -34,7 +34,15 @@ module.exports = {
         token: "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImdjbXMtbWFpbi1wcm9kdWN0aW9uIn0.eyJ2ZXJzaW9uIjozLCJpYXQiOjE3MzEwMzY5OTYsImF1ZCI6WyJodHRwczovL2FwaS11cy13ZXN0LTIuaHlncmFwaC5jb20vdjIvY20yeHZudXJpMDExdTA3d2JjdnhtbWFseS9tYXN0ZXIiLCJtYW5hZ2VtZW50LW5leHQuZ3JhcGhjbXMuY29tIl0sImlzcyI6Imh0dHBzOi8vbWFuYWdlbWVudC11cy13ZXN0LTIuaHlncmFwaC5jb20vIiwic3ViIjoiNDUyZmRlMGQtZDNkZS00NjM1LTkwMjItMzU4MGI1YTMzMjgyIiwianRpIjoiY20zODZxZWtyMHZxdjA3bHJoZGtwaGVqdiJ9.BI4KEGHWMJjAaE2I_-lQlfyewPhMIJPIEOHo0ffatqDkS1ozoweGPCQ0-8r1BTslwbuN5Jqe6uSKr5fJy4Mox-Lix-WiJE42qjE1usiNljSFRZTYaZvhyJ3WZB1qoAARZ-DXHT2CjNVqcu624H5889pFJjhtJpLoZX6LXaAhW3FZJIh9n96blmnzPo5CaFBicwzPwj2MhxJQ9qJL_GMrwlB_s-AVA-Wq6aayCpN_PWjeq6WYRMnNYze7fLpG7FKsoWaYWFU0c_hhcP0P5MWYgt59uKKbHnOTIgGJJWLuakdp6YQDR7ekm-Cx67TMPfVUos7Cfww97cCRaObqDo3YnufrHb2_ZR2dyfdNVP1A1ykZoeQKFHmqfXW6hTtRglXkKXEcoggrX6YJoZnp0Jv-T5QTPpuu7Mkm9hGIWTa4mLA2FGDYST0ZMOx7EWqdwOfIN4GeRanYf_-zNDf6Qop0NIKCUt5QHxW-eQbqLE6vmVZGQyIde4HLLsc3LDrM7iECluO7rqjYFg3I3-vap95vG51J27KmpFmby0ur7q7w8IiWzrmEhPOQU_3lA827uE97RmiOyM7OGPuNePOA_ueNeOyuuwOjILpbgcohzsmpUBAzManKa3OsDkbhDSMU7cLndYT8opL2XnKrVVkNiMaevuqHUFQr0PrLuAqUHS5U_5s",
       },
     },
-   
+    {                             
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+          trackingIds: ['G-H956HYZNWG'],
+          pluginConfig: {
+            head: true
+          },
+        },
+      },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
    

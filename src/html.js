@@ -19,7 +19,7 @@ export default function HTML(props) {
         <script src="https://static.elfsight.com/platform/platform.js" async></script>
         <script src="https://static.elfsight.com/platform/platform.js" async></script>
         <div class="elfsight-app-c2827da7-ac36-4a3e-8889-675e8bcc5528" data-elfsight-app-lazy></div>
-        {/*<script async src="https://www.googletagmanager.com/gtag/js?id=G-EXT8EEJWVQ"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-H956HYZNWG"></script>
         <script
           type='text/javascript'
           dangerouslySetInnerHTML={{
@@ -28,9 +28,9 @@ export default function HTML(props) {
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
 
-              gtag('config', 'G-EXT8EEJWVQ');`,
+              gtag('config', 'G-H956HYZNWG');`,
           }}
-        />*/}
+        />
       
       </head>
       <body {...props.bodyAttributes}>
