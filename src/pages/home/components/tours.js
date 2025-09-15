@@ -95,7 +95,7 @@ function Tours() {
                             <div className='absolute-desc'>
                                 <h1>Xunantunich Kayaking</h1>
                             </div>
-                       </a>
+                       </a>               
                     </div>
                     <div className='tour-slide'>
                         <a href="/jungle-zipline-in-jaguar-paw/">
